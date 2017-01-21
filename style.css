@@ -459,12 +459,12 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
 /*My CSS*/
 
 .panel {
-	    margin: 0 auto;
-	    background-color: white;
-        box-shadow: 2px 2px 14px rgba(0,0,0,0.1);
+	margin: 0 auto;
+	background-color: white;
+	box-shadow: 2px 2px 14px rgba(0,0,0,0.2);
 }
 .blocs-social-list-v {
-    max-width: 200px;
+    max-width: 250px;
 }
 .blocs-panel-avatar {
     max-width: 150px;
