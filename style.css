@@ -470,10 +470,13 @@ h1,h2,h3,h4,h5,h6,p,label,.btn,a{
     max-width: 150px;
     margin-bottom: 20px;
 }
-.info p {
+.title p {
+    margin-bottom: 0px;
+}
+.contact p {
 	margin-bottom:0px;
 }
-.info {
+.contact {
 	margin-top:15px;
 	margin-bottom: 15px;
 }
